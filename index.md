@@ -1,11 +1,8 @@
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prestashop 1.7 usefull functions
 
 ```markdown
 Syntax highlighted code block
-
-Prestashop 1.7 usefull functions
 
 - Bulleted
 - List
