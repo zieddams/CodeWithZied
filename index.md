@@ -1,8 +1,9 @@
 ### (Zied Dams Code)
+
 Prestashop 1.7 usefull functions
 
 ```markdown
-Syntax highlighted code block
+// cookies in prestashop 1.7
 
 - Bulleted
 - List
