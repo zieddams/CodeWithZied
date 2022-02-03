@@ -5,8 +5,11 @@ Prestashop 1.7 usefull functions
 ```markdown
 // cookies in prestashop 1.7
 
-- Bulleted
-- List
+- // check if cookie variable exist
+- // in module main context
+$this->context->cookie->__isset('variableName') // return Bool
+- // outside of context
+Context::getContext()->cookie->__isset('variableName') // return Bool
 
 1. Numbered
 2. List
